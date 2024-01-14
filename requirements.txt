@@ -1,0 +1,6 @@
+panel
+jupyter
+transformers
+numpy
+torch
+aiohttp
