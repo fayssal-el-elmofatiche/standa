@@ -1,6 +1,5 @@
 panel
 jupyter
-transformers
-numpy
-torch
-aiohttp
+requests
+cufflinks
+plotly
