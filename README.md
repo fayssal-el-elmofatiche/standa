@@ -1,4 +1,15 @@
-<<<<<<< HEAD
+---
+title: Panel Template
+emoji: 📈
+colorFrom: gray
+colorTo: green
+sdk: docker
+pinned: false
+license: mit
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
 # standa - *St*ock *An*alysis *Da*shboard
 
 ## Introduction
@@ -54,16 +65,5 @@ Acknowledgements
 ## Disclaimer
 
 *standa* is for informational purposes only and does not constitute financial advice.
-=======
----
-title: Panel Template
-emoji: 📈
-colorFrom: gray
-colorTo: green
-sdk: docker
-pinned: false
-license: mit
----
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
->>>>>>> hf-origin/main
+
