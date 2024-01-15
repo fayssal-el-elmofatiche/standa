@@ -1,0 +1,6 @@
+panel
+jupyter
+requests
+yfinance
+cufflinks
+plotly
