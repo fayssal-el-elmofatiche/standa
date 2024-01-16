@@ -7,6 +7,7 @@ sdk: docker
 pinned: false
 license: mit
 ---
+![Stock Analysis Dashboard](standa.png)
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
@@ -46,7 +47,7 @@ poetry install
 To run the dashboard:
 
 ```bash
-panel serve standa.ipynb
+panel serve standa.ipynb --show --autoreload
 ```
 
 ## Contributing
