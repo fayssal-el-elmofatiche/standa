@@ -1,5 +1,5 @@
 ---
-title: Panel Template
+title: Stock Analysis Dashboard - *standa*
 emoji: 📈
 colorFrom: gray
 colorTo: green
