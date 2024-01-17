@@ -5,3 +5,4 @@ yfinance
 cufflinks
 plotly
 seaborn
+scipy
