@@ -4,3 +4,4 @@ requests
 yfinance
 cufflinks
 plotly
+seaborn
