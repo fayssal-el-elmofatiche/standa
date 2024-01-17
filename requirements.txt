@@ -6,3 +6,4 @@ cufflinks
 plotly
 seaborn
 scipy
+statsmodels
