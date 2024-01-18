@@ -11,6 +11,8 @@ license: mit
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
+A live demo can be found at https://huggingface.co/spaces/felmofatiche/standa
+
 # standa - *St*ock *An*alysis *Da*shboard
 
 ## Introduction
