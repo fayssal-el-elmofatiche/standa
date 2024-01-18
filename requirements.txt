@@ -7,3 +7,4 @@ plotly
 seaborn
 scipy
 statsmodels
+ipywidgets_bokeh
